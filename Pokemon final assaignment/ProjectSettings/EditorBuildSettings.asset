@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PokemonSelect.unity
+    guid: d4303c88502d8414aa4edd59520b8bbe
+  - enabled: 1
+    path: Assets/World.unity
+    guid: 2cf5ed58092f43f4eb2c45339fac031a
+  - enabled: 1
+    path: Assets/FightingSequence.unity
+    guid: 3781909a24fa94047be2804f0455e4d8
+  m_configObjects: {}
